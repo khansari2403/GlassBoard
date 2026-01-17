@@ -84,3 +84,7 @@ android-sdk/ -e
 GlassBoard/node_modules/next/next-swc-fallback/@next/swc-linux-arm64-gnu/next-swc.linux-arm64-gnu.node
 GlassBoard/node_modules/next/next-swc-fallback/@next/swc-linux-arm64-musl/next-swc.linux-arm64-musl.node
 GlassBoard/node_modules/electron/dist/electron
+-e 
+# Environment files
+*.env
+*.env.*
